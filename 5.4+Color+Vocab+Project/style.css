@@ -1,0 +1,47 @@
+#red{
+    color:red
+}
+
+#blue{
+    color:blue
+}
+
+#orange{
+    color:orange
+}
+
+#green{
+    color:green
+}
+
+#yellow{
+    color:yellow
+}
+
+#purple{
+    color:purple
+}
+
+#pink{
+    color:pink
+}
+
+#gray{
+    color:gray
+}
+
+#brown{
+    color:brown
+}
+
+#black{
+    color:black
+}
+.color-title{
+    font-weight:normal;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
